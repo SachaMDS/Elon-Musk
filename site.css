@@ -21,3 +21,12 @@
 
   color: white;
 }
+
+body{
+background-image: url("https://image.freepik.com/photos-gratuite/mur-ciment-abstrait-noir-sombre-gris-fond-degrade-studio_28629-10.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: 100% 100%;
+color:white;
+}
