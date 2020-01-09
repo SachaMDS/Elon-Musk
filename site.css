@@ -38,10 +38,14 @@ img{
   width:300px;
  
   }
-h2{
+h3{
   text-decoration: underline red;
 }
-h1{
+h2{
   text-decoration: underline blue;
+}
+h1{
+  text-decoration: underline lawngreen;
+  text-align: center;
 }
 
